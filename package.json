@@ -1,0 +1,26 @@
+{
+    "name": "extbundles-csharp",
+    "displayName": "FelschR's Bundles: C#",
+    "description": "A bundle of C# focused extensions",
+    "version": "0.0.1",
+    "publisher": "FelschR",
+    "license": "https://raw.githubusercontent.com/FelschR/vscode-csharp-extension-pack/master/LICENSE",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "repository": {
+        "url": "https://github.com/FelschR/vscode-csharp-extension-pack"
+    },
+    "categories": [
+        "Other",
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "ms-vscode.PowerShell",
+        "ms-vscode.csharp",
+        "k--kato.docomment",
+        "eridem.vscode-nupkg",
+        "jesschadwick.nuget-reverse-package-search",
+        "msazurermtools.azurerm-vscode-tools"
+    ]
+}
