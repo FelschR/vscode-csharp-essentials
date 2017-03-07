@@ -2,7 +2,7 @@
     "name": "extbundles-csharp",
     "displayName": "ExtBundles: C#",
     "description": "An extension pack containing C# focused extensions",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "FelschR",
     "license": "https://raw.githubusercontent.com/FelschR/vscode-csharp-extension-pack/master/LICENSE",
     "engines": {
