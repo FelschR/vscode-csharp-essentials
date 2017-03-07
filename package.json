@@ -20,7 +20,6 @@
         "ms-vscode.csharp",
         "k--kato.docomment",
         "eridem.vscode-nupkg",
-        "jesschadwick.nuget-reverse-package-search",
-        "msazurermtools.azurerm-vscode-tools"
+        "jesschadwick.nuget-reverse-package-search"
     ]
 }
