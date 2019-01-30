@@ -1,7 +1,7 @@
 # Change Log
 
 ## 2.0.0
-- Renamed to "csharp-essentials"
+- Renamed to "C# Essentials"
 - Added "tintoy.msbuild-project-tools"
 - Removed "jmrog.vscode-nuget-package-manager"
 - Removed "jesschadwick.nuget-reverse-package-search"
