@@ -1,6 +1,10 @@
 # Change Log
 
-Do you like this extension pack? Have a look at [ExtBundles: Essentials](https://marketplace.visualstudio.com/items?itemName=FelschR.extbundles-general).
+## 2.0.0
+- Renamed to "csharp-essentials"
+- Added "tintoy.msbuild-project-tools"
+- Removed "jmrog.vscode-nuget-package-manager"
+- Removed "jesschadwick.nuget-reverse-package-search"
 
 ## 1.1.0
 - Added "jmrog.vscode-nuget-package-manager"
