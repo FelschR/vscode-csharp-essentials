@@ -16,7 +16,7 @@
         "Extension Packs"
     ],
     "extensionDependencies": [
-        "ms-vscode.csharp",
+        "ms-dotnettools.csharp",
         "tintoy.msbuild-project-tools",
         "pflannery.vscode-versionlens",
         "k--kato.docomment"
