@@ -2,7 +2,7 @@
     "name": "extbundles-csharp",
     "displayName": "C# Essentials",
     "description": "An extension pack containing essential C# extensions",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "FelschR",
     "license": "https://raw.githubusercontent.com/FelschR/vscode-csharp-essentials/master/LICENSE",
     "engines": {
